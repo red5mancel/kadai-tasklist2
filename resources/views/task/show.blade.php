@@ -8,7 +8,7 @@
 
 <p>タイトル: {{ $task->title }}</p>
 <p>{{ $task->content }}</p>
-
+<p>{{ $task->status }}</p>
 
 
    
